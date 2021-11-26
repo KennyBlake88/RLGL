@@ -1,0 +1,9 @@
+﻿  Red Light Green Light part 2.cpp
+C:\Users\kenny\source\repos\Red Light Green Light part 2\Red Light Green Light part 2\Red Light Green Light part 2.cpp(299,21): warning C4101: 'e': unreferenced local variable
+C:\Users\kenny\source\repos\Red Light Green Light part 2\Red Light Green Light part 2\Red Light Green Light part 2.cpp(323,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\kenny\source\repos\Red Light Green Light part 2\Red Light Green Light part 2\Red Light Green Light part 2.cpp(183): warning C4715: 'watchForMovement': not all control paths return a value
+  All 535 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Red Light Green Light part 2.vcxproj -> C:\Users\kenny\source\repos\Red Light Green Light part 2\x64\Release\Red Light Green Light part 2.exe
